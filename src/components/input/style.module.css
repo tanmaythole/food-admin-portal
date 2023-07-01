@@ -1,0 +1,22 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.inputBox {
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 16px;
+  border-radius: 8px;
+  background-color: var(--bg-secondary);
+  gap: 8px;
+}
+.inputBox input {
+  width: 100%;
+  position: relative;
+  min-height: 28px;
+  outline: none;
+  border: none;
+  background-color: inherit;
+}

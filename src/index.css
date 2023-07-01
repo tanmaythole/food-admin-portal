@@ -13,6 +13,9 @@
   --text-tertiary: #42BDA1;
   --border-color: #E1E1E1;
 }
+body {
+  background-color: var(--bg-secondary);
+}
 @font-face {
   font-family: 'Mulish';
   src: url('./assets/fonts/Mulish-Black.ttf') format('truetype');

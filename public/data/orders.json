@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "data": {
+    "food": [
+      {
+        "title": "Yasai Tempura",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$12"
+      },
+      {
+        "title": "Inarizushi",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$8"
+      },
+      {
+        "title": "Veggie Maki Rolls",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$22"
+      },
+      {
+        "title": "Goma-ae",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$6"
+      },
+      {
+        "title": "Miso Soup",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$4"
+      },
+      {
+        "title": "Yasai Itame",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+        "price": "$10"
+      }
+    ]
+    ,
+    "drinks": [
+      {
+        "title": "Matcha Latte",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5HG-xZtZiZ6IB-J1vLCWQhB8OixhlV-IVA&usqp=CAU",
+        "price": "$5"
+      },
+      {
+        "title": "Soy Milk Bubble Tea",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5HG-xZtZiZ6IB-J1vLCWQhB8OixhlV-IVA&usqp=CAU",
+        "price": "$6"
+      },
+      {
+        "title": "Watermelon Juice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5HG-xZtZiZ6IB-J1vLCWQhB8OixhlV-IVA&usqp=CAU",
+        "price": "$4"
+      }
+    ]
+    ,
+    "snacks": [],
+    "packages": []
+  }
+}

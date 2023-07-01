@@ -6,3 +6,4 @@ export {default as CUSTOMERS_ICON} from "@src/assets/icons/customer.svg";
 export {default as PACKAGE_ICON} from "@src/assets/icons/Package.svg";
 export {default as COUPON_ICON} from "@src/assets/icons/Coupon Discount.svg";
 export {default as SETTINGS_ICON} from "@src/assets/icons/seettings.svg";
+export {default as SEARCH_ICON} from "@src/assets/icons/SEARCH.svg";
