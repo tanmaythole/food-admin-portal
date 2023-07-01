@@ -1,0 +1,86 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": "XXX1",
+      "name": "Arlene McCoy",
+      "joinDate": "1 February 2021",
+      "totalVisit": 2,
+      "purchasedItems": ["americano (10)", "latte (8)", "cappuccino (14)", "macchiato (1)", "vanilla latte (5)"],
+      "totalSpend": "$490.51"
+    },
+    {
+      "id": "XXX2",
+      "name": "John Doe",
+      "joinDate": "15 January 2021",
+      "totalVisit": 5,
+      "purchasedItems": ["espresso (20)", "caramel macchiato (12)", "mocha (5)", "iced coffee (8)", "americano (3)"],
+      "totalSpend": "$320.75"
+    },
+    {
+      "id": "XXX3",
+      "name": "Jane Smith",
+      "joinDate": "10 March 2021",
+      "totalVisit": 3,
+      "purchasedItems": ["latte (6)", "cappuccino (10)", "flat white (4)", "chai latte (2)", "espresso (2)"],
+      "totalSpend": "$210.92"
+    },
+    {
+      "id": "XXX4",
+      "name": "Michael Johnson",
+      "joinDate": "5 April 2021",
+      "totalVisit": 1,
+      "purchasedItems": ["americano (3)", "mocha (4)", "caramel latte (6)", "cappuccino (2)", "iced tea (10)"],
+      "totalSpend": "$135.60"
+    },
+    {
+      "id": "XXX5",
+      "name": "Sarah Wilson",
+      "joinDate": "20 May 2021",
+      "totalVisit": 4,
+      "purchasedItems": ["latte (12)", "chai latte (6)", "cappuccino (8)", "espresso (5)", "iced coffee (4)"],
+      "totalSpend": "$410.25"
+    },
+    {
+      "id": "XXX6",
+      "name": "Robert Brown",
+      "joinDate": "12 July 2021",
+      "totalVisit": 2,
+      "purchasedItems": ["mocha (8)", "caramel macchiato (4)", "flat white (5)", "americano (2)", "iced tea (6)"],
+      "totalSpend": "$280.80"
+    },
+    {
+      "id": "XXX7",
+      "name": "Emily Davis",
+      "joinDate": "3 June 2021",
+      "totalVisit": 3,
+      "purchasedItems": ["latte (10)", "espresso (8)", "cappuccino (12)", "chai latte (3)", "iced coffee (5)"],
+      "totalSpend": "$380.15"
+    },
+    {
+      "id": "XXX8",
+      "name": "David Wilson",
+      "joinDate": "8 September 2021",
+      "totalVisit": 1,
+      "purchasedItems": ["cappuccino (6)", "mocha (4)", "vanilla latte (8)", "espresso (2)", "americano (3)"],
+      "totalSpend": "$180.35"
+    },
+    {
+      "id": "XXX9",
+      "name": "Jessica Thompson",
+      "joinDate": "17 August 2021",
+      "totalVisit": 5,
+      "purchasedItems": ["chai latte (10)", "caramel macchiato (8)", "flat white (4)", "latte (2)", "iced tea (6)"],
+      "totalSpend": "$310.95"
+    },
+    {
+      "id": "XXX10",
+      "name": "Daniel Roberts",
+      "joinDate": "25 October 2021",
+      "totalVisit": 2,
+      "purchasedItems": ["espresso (6)", "mocha (4)", "cappuccino (8)", "vanilla latte (3)", "iced coffee (5)"],
+      "totalSpend": "$250.45"
+    }
+  ]
+  
+}

@@ -7,3 +7,5 @@ export {default as PACKAGE_ICON} from "@src/assets/icons/Package.svg";
 export {default as COUPON_ICON} from "@src/assets/icons/Coupon Discount.svg";
 export {default as SETTINGS_ICON} from "@src/assets/icons/seettings.svg";
 export {default as SEARCH_ICON} from "@src/assets/icons/SEARCH.svg";
+export {default as FILTER_ICON} from "@src/assets/icons/filter.svg";
+export {default as THREE_DOTS_ICON} from "@src/assets/icons/threedots.svg";

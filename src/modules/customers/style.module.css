@@ -1,0 +1,17 @@
+.heading {
+  padding-bottom: 16px;
+}
+.custContainer {
+  padding: 0px 16px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+.headingRow {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.inputWrapper {
+  flex-grow: 1;
+}

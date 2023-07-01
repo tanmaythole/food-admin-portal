@@ -16,6 +16,13 @@
 body {
   background-color: var(--bg-secondary);
 }
+.container {
+  width: 100%;
+  min-height: 500px;
+  border-radius: 8px;
+  background-color: var(--bg-primary);
+  padding: 24px 0;
+}
 @font-face {
   font-family: 'Mulish';
   src: url('./assets/fonts/Mulish-Black.ttf') format('truetype');

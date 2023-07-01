@@ -72,7 +72,7 @@ const Dashboard: React.FC = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div className="container">
       <div className={styles.menu}>
         <Input
           placeholder="Search Here..."
