@@ -1,0 +1,24 @@
+.header {
+  height: 80px;
+  background-color: var(--bg-primary);
+  border-bottom: 1px solid #E1E1E1;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.header > span {
+  display: flex;
+  align-items: center;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  min-width: 180px;
+  gap: 16px;
+  padding-left: 28px;
+}
