@@ -62,12 +62,27 @@ const Customers: React.FC = () => {
           <Table headings={customerTableHeadings}>
             {filteredList.map((item) => (
               <tr key={item.id}>
-                <td>{item.id}</td>
-                <td>{item.name}</td>
-                <td>{item.joinDate}</td>
-                <td>{item.totalVisit}</td>
-                <td>{item.purchasedItems.join(";")}</td>
-                <td>{item.totalSpend}</td>
+                <td>
+                  <Typography>{item.id}</Typography>
+                </td>
+                <td>
+                  <Typography>{item.name}</Typography>
+                </td>
+                <td>
+                  <Typography>{item.joinDate}</Typography>
+                </td>
+                <td>
+                  <Typography>{item.totalVisit}</Typography>
+                </td>
+                <td>
+                  <Typography>{item.purchasedItems.join(";")}</Typography>
+                  <Typography variant="title" className={styles.detailsBtn}>
+                    See Detail
+                  </Typography>
+                </td>
+                <td>
+                  <Typography>{item.totalSpend}</Typography>
+                </td>
               </tr>
             ))}
           </Table>

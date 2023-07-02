@@ -15,3 +15,8 @@
 .inputWrapper {
   flex-grow: 1;
 }
+.detailsBtn {
+  color: var(--primary-color);
+  margin-top: 16px;
+  cursor: pointer;
+}
