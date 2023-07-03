@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "item": "Onigiri - Rice Balls",
+      "quantity": 34,
+      "revenue": "$293",
+      "netProfit": "$710.68"
+    },
+    {
+      "item": "Yasai Tempura",
+      "quantity": 42,
+      "revenue": "$150",
+      "netProfit": "$320.50"
+    },
+    {
+      "item": "Inarizushi",
+      "quantity": 27,
+      "revenue": "$80",
+      "netProfit": "$180.25"
+    },
+    {
+      "item": "Veggie Maki Rolls",
+      "quantity": 49,
+      "revenue": "$220",
+      "netProfit": "$500.75"
+    },
+    {
+      "item": "Goma-ae",
+      "quantity": 38,
+      "revenue": "$60",
+      "netProfit": "$125.50"
+    },
+    {
+      "item": "Miso Soup",
+      "quantity": 21,
+      "revenue": "$40",
+      "netProfit": "$90.25"
+    },
+    {
+      "item": "Yasai Itame",
+      "quantity": 45,
+      "revenue": "$100",
+      "netProfit": "$230.50"
+    },
+    {
+      "item": "Vegan Ramen",
+      "quantity": 29,
+      "revenue": "$180",
+      "netProfit": "$420.25"
+    },
+    {
+      "item": "Nasu Dengaku - Miso Glazed Eggplant",
+      "quantity": 33,
+      "revenue": "$120",
+      "netProfit": "$270.50"
+    },
+    {
+      "item": "Kinpira Gobo - Braised Burdock Root",
+      "quantity": 50,
+      "revenue": "$80",
+      "netProfit": "$160.25"
+    }
+  ]
+  
+}

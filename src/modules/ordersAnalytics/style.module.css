@@ -1,5 +1,4 @@
 .statCards {
-  
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 32px;
@@ -21,4 +20,36 @@
 }
 .statcardRow .error {
   color: red;
+}
+.mainContainer {
+  display: grid;
+  grid-template-columns: 1fr 30%;
+  column-gap: 32px;
+  margin-top: 32px;
+}
+.mainContainer .containerCard {
+  background-color: var(--bg-primary);
+  padding: 32px 16px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.soldItemCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+.soldItemCard img {
+  border-radius: 8px;
+}
+.soldItemCard .soldItemCardLeft {
+  display: flex;
+  align-items: center;
+  gap: 24px
+}
+.soldItemCard .itemsCount {
+  color: var(--text-secondary);
 }

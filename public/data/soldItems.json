@@ -1,0 +1,56 @@
+{
+  "status":"ok",
+  "data": [
+    {
+      "item": "Onigiri - Rice Balls",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 34
+    },
+    {
+      "item": "Yasai Tempura",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 42
+    },
+    {
+      "item": "Inarizushi",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 27
+    },
+    {
+      "item": "Veggie Maki Rolls",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 49
+    },
+    {
+      "item": "Goma-ae",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 38
+    },
+    {
+      "item": "Miso Soup",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 21
+    },
+    {
+      "item": "Yasai Itame",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 45
+    },
+    {
+      "item": "Vegan Ramen",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 29
+    },
+    {
+      "item": "Nasu Dengaku - Miso Glazed Eggplant",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 33
+    },
+    {
+      "item": "Kinpira Gobo - Braised Burdock Root",
+      "image": "https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg",
+      "numOfItems": 50
+    }
+  ]
+  
+}
