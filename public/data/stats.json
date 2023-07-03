@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "title": "Customer",
+      "count": "1000",
+      "isProfit": false,
+      "percentage": 15
+    },
+    {
+      "title": "Orders",
+      "count": "1050",
+      "isProfit": true,
+      "percentage": 20
+    },
+    {
+      "title": "Revenue",
+      "count": "$50.00",
+      "isProfit": true,
+      "percentage": 10
+    },
+    {
+      "title": "Net Profit",
+      "count": "$12.00",
+      "isProfit": false,
+      "percentage": 12
+    }
+  ]
+}

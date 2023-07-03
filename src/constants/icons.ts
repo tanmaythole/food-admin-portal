@@ -9,3 +9,5 @@ export {default as SETTINGS_ICON} from "@src/assets/icons/seettings.svg";
 export {default as SEARCH_ICON} from "@src/assets/icons/SEARCH.svg";
 export {default as FILTER_ICON} from "@src/assets/icons/filter.svg";
 export {default as THREE_DOTS_ICON} from "@src/assets/icons/threedots.svg";
+export {default as ARROW_UP_ICON} from "@src/assets/icons/Arrow Up.svg";
+export {default as ARROW_DOWN_ICON} from "@src/assets/icons/Arrow Down.svg";

@@ -1,6 +1,7 @@
 import AppLayout from "./layout/AppLayout";
 import Customers from "./modules/customers";
 import Dashboard from "./modules/dashboard";
+import OredrsAnalytics from "./modules/ordersAnalytics";
 
 const routerConfig = [
   {
@@ -10,6 +11,10 @@ const routerConfig = [
       {
         path: "/",
         element: <Dashboard />,
+      },
+      {
+        path: "/orders",
+        element: <OredrsAnalytics />,
       },
       {
         path: "/customers",

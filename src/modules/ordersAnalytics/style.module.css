@@ -1,0 +1,24 @@
+.statCards {
+  
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 32px;
+}
+.statCard {
+  padding: 24px 16px;
+  background-color: var(--bg-primary);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.statcardRow {
+  display: flex;
+  justify-content: space-between;
+}
+.statcardRow .success {
+  color: var(--text-tertiary);
+}
+.statcardRow .error {
+  color: red;
+}
