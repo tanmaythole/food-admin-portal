@@ -1,0 +1,21 @@
+.couponsHeading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.container {
+  padding: 24px 16px;
+  background-color: var(--bg-primary);
+  border-radius: 8px;
+  min-height: 450px;
+}
+.containerHeader {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.inputWrapper {
+  flex-grow: 1;
+}

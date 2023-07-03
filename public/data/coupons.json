@@ -1,0 +1,62 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "code": "20% Off Entire Order",
+      "discount": "20%",
+      "startDate": "February 14, 2021",
+      "endDate": "February 15, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Free Shipping",
+      "discount": "100%",
+      "startDate": "March 1, 2021",
+      "endDate": "March 31, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Buy One Get One Free",
+      "discount": "50%",
+      "startDate": "April 15, 2021",
+      "endDate": "April 30, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "10% Off Your Next Order",
+      "discount": "10%",
+      "startDate": "May 1, 2021",
+      "endDate": "May 31, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Summer Special: 15% Off",
+      "discount": "15%",
+      "startDate": "June 1, 2021",
+      "endDate": "August 31, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Limited Time Offer: 25% Off",
+      "discount": "25%",
+      "startDate": "September 1, 2021",
+      "endDate": "September 15, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Holiday Sale: 30% Off",
+      "discount": "30%",
+      "startDate": "December 1, 2021",
+      "endDate": "December 31, 2021",
+      "isActivate": true
+    },
+    {
+      "code": "Back to School Special: 15% Off",
+      "discount": "15%",
+      "startDate": "August 15, 2021",
+      "endDate": "September 30, 2021",
+      "isActivate": true
+    }
+  ]
+  
+}

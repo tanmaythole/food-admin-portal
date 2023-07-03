@@ -1,4 +1,5 @@
 import AppLayout from "./layout/AppLayout";
+import Coupon from "./modules/coupon";
 import Customers from "./modules/customers";
 import Dashboard from "./modules/dashboard";
 import OredrsAnalytics from "./modules/ordersAnalytics";
@@ -19,6 +20,10 @@ const routerConfig = [
       {
         path: "/customers",
         element: <Customers />,
+      },
+      {
+        path: "/coupons",
+        element: <Coupon />,
       },
     ],
   },

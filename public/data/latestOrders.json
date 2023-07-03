@@ -60,7 +60,23 @@
       "quantity": 50,
       "revenue": "$80",
       "netProfit": "$160.25"
+    },{
+      "item": "Onigiri - Rice Balls",
+      "quantity": 34,
+      "revenue": "$293",
+      "netProfit": "$710.68"
+    },
+    {
+      "item": "Yasai Tempura",
+      "quantity": 42,
+      "revenue": "$150",
+      "netProfit": "$320.50"
+    },
+    {
+      "item": "Inarizushi",
+      "quantity": 27,
+      "revenue": "$80",
+      "netProfit": "$180.25"
     }
   ]
-  
 }
