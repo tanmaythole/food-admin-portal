@@ -13,10 +13,14 @@ type Props = {
 const Card: React.FC<Props> = ({ title, image, price }) => {
   return (
     <div className={styles.card}>
-      <img src={image} alt={title} />
+      <div className={styles.imageContainer}>
+        <img src={image} alt={title} />
+      </div>
       <div className={styles.content}>
         <Typography variant="title">{title}</Typography>
-        <Typography variant="text" className={styles.price}>{price}</Typography>
+        <Typography variant="text" className={styles.price}>
+          {price}
+        </Typography>
       </div>
     </div>
   );
