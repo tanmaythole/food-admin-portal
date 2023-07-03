@@ -30,6 +30,10 @@ const routerConfig = [
         path: "/employees",
         element: <EmployeesShift />,
       },
+      {
+        path: "/*",
+        element: <h1>Page Not Found</h1>,
+      },
     ],
   },
 ];
