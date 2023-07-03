@@ -1,0 +1,111 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "title": "Shift 1 (06 AM - 12 PM)",
+      "data": [
+        {
+          "name": "Brooklyn Simmons",
+          "role": "Admin",
+          "image": "",
+          "color": "#9A9AB0",
+          "bgColor": "#F1F1F6",
+          "chipType": "fill"
+        },
+        {
+          "name": "Dianne Russell",
+          "role": "Cashier",
+          "image": "",
+          "color": "#3CAA91",
+          "bgColor": "#D9F2EC",
+          "chipType": "fill"
+        },
+        {
+          "name": "Brooklyn Simmons",
+          "role": "Chef",
+          "image": "",
+          "color": "#EEAF22",
+          "bgColor": "#FCE7CF",
+          "chipType": "fill"
+        },
+        {
+          "name": "Jenny Wilson",
+          "role": "Waitress",
+          "image": "",
+          "color": "#2A23C2",
+          "bgColor": "#DBD7F4",
+          "chipType": "fill"
+        },
+        {
+          "name": "Theresa Webb",
+          "role": "Diswasher",
+          "image": "",
+          "color": "#2A23C2",
+          "bgColor": "",
+          "chipType": "outline"
+        },
+        {
+          "name": "Ronald Richards",
+          "role": "Chef",
+          "image": "",
+          "color": "#EEAF22",
+          "bgColor": "#FCE7CF",
+          "chipType": "fill"
+        }
+      ]
+    },
+    {
+      "title": "Shift 2 (01 PM - 11 PM)",
+      "data": [
+        {
+          "name": "Brooklyn Simmons",
+          "role": "Admin",
+          "image": "",
+          "color": "#9A9AB0",
+          "bgColor": "#F1F1F6",
+          "chipType": "fill"
+        },
+        {
+          "name": "Dianne Russell",
+          "role": "Cashier",
+          "image": "",
+          "color": "#3CAA91",
+          "bgColor": "#D9F2EC",
+          "chipType": "fill"
+        },
+        {
+          "name": "Brooklyn Simmons",
+          "role": "Chef",
+          "image": "",
+          "color": "#EEAF22",
+          "bgColor": "#FCE7CF",
+          "chipType": "fill"
+        },
+        {
+          "name": "Jenny Wilson",
+          "role": "Waitress",
+          "image": "",
+          "color": "#2A23C2",
+          "bgColor": "#DBD7F4",
+          "chipType": "fill"
+        },
+        {
+          "name": "Theresa Webb",
+          "role": "Diswasher",
+          "image": "",
+          "color": "#2A23C2",
+          "bgColor": "",
+          "chipType": "outline"
+        },
+        {
+          "name": "Ronald Richards",
+          "role": "Chef",
+          "image": "",
+          "color": "#EEAF22",
+          "bgColor": "#FCE7CF",
+          "chipType": "fill"
+        }
+      ]
+    }
+  ]
+}

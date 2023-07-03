@@ -11,3 +11,5 @@ export {default as FILTER_ICON} from "@src/assets/icons/filter.svg";
 export {default as THREE_DOTS_ICON} from "@src/assets/icons/threedots.svg";
 export {default as ARROW_UP_ICON} from "@src/assets/icons/Arrow Up.svg";
 export {default as ARROW_DOWN_ICON} from "@src/assets/icons/Arrow Down.svg";
+export {default as PENCIL_ICON} from "@src/assets/icons/pen.svg";
+export {default as PLUS_ICON} from "@src/assets/icons/plus.svg";
